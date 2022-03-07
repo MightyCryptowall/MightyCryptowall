@@ -1,6 +1,7 @@
 ### Hello!
 
-I am Ye Thiha
+I am Ye Thiha.
+I am Front End Developer
 
 
 
