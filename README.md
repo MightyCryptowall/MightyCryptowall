@@ -1,7 +1,8 @@
 ### Hello!
 
-I am Ye Thiha.
-I am Front End Developer
+- I am Ye Thiha.
+- I am Front End Developer.
+- Javascript is my primary language.
 
 
 
