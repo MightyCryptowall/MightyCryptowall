@@ -1,4 +1,4 @@
-### Hello Friends!
+### Hello Friend!
 
 - I am Ye Thiha.
 - I am Front End Developer.
