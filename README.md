@@ -16,9 +16,6 @@
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
