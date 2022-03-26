@@ -5,7 +5,7 @@
   I am Ye Thiha.
 </div>
 
-<h5 align="center">Languages & Frameworks which i uses.</h5>
+<h5 align="center">Languages & frameworks which i uses.</h5>
 
 <div align="center">
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
