@@ -18,7 +18,7 @@
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
 </div>
