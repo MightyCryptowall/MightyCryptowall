@@ -12,7 +12,7 @@
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/imcons/jquery/jquery-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
@@ -21,6 +21,8 @@
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
 </div>
 
 
