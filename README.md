@@ -22,6 +22,7 @@
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
    <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
   <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+  <img width="30em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
 </div>
 
 
