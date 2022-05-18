@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hello Friend!</h1>
 
-  I am Ye Thiha.
+  I am Ye Thiha
 </div>
 
 <h5 align="center">Languages & frameworks which i currently uses.</h5>
