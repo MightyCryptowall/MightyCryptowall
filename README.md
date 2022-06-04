@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hello Friend!</h1>
+  <h1>Hello Friends!</h1>
 
   I am Ye Thiha
 </div>
